@@ -1,0 +1,11 @@
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\FactoryBO.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\FactoryBO.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\BO.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\BO.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBO\bin\Debug\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBO\obj\Debug\FactoryBO.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\FactoryBO\obj\Debug\FactoryBO.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\FactoryBO\obj\Debug\FactoryBO.csproj.CopyComplete
+C:\Users\shres\source\repos\factorypatten\FactoryBO\obj\Debug\FactoryBO.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBO\obj\Debug\FactoryBO.pdb

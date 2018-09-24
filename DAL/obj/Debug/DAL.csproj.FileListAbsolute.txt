@@ -1,0 +1,13 @@
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\DAL.dll
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\DAL.pdb
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\BO.dll
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\FactoryBO.dll
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\BO.pdb
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\FactoryBO.pdb
+C:\Users\shres\source\repos\factorypatten\DAL\bin\Debug\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shres\source\repos\factorypatten\DAL\obj\Debug\DAL.dll
+C:\Users\shres\source\repos\factorypatten\DAL\obj\Debug\DAL.pdb

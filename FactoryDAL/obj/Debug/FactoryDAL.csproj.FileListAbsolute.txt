@@ -1,0 +1,11 @@
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\FactoryDAL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\FactoryDAL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\DAL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\DAL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\bin\Debug\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\obj\Debug\FactoryDAL.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\obj\Debug\FactoryDAL.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\obj\Debug\FactoryDAL.csproj.CopyComplete
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\obj\Debug\FactoryDAL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryDAL\obj\Debug\FactoryDAL.pdb

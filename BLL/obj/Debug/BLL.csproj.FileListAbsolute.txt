@@ -1,0 +1,15 @@
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\BLL.dll
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\BLL.pdb
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\BO.dll
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\DAL.dll
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\FactoryBO.dll
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\FactoryDAL.dll
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\BO.pdb
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\DAL.pdb
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\FactoryBO.pdb
+C:\Users\shres\source\repos\factorypatten\BLL\bin\Debug\FactoryDAL.pdb
+C:\Users\shres\source\repos\factorypatten\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\shres\source\repos\factorypatten\BLL\obj\Debug\BLL.dll
+C:\Users\shres\source\repos\factorypatten\BLL\obj\Debug\BLL.pdb

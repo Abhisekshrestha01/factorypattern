@@ -1,0 +1,11 @@
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\FactoryBLL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\FactoryBLL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\BLL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\BLL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.csproj.CopyComplete
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.pdb
