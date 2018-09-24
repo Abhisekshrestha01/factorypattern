@@ -9,5 +9,6 @@ namespace TYPE
     public interface IEmployeeBLL
     {
         int CheckEmp(IEmployeeBO obj);
+        void RegisterEmp(IEmployeeBO obj);
     }
 }

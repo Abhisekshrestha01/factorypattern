@@ -15,5 +15,10 @@ namespace BLL
             IEmployeeDAL obj1 = EmployeeFaDAL.CreateDAL();
             return (obj1.CheckEmployee(obj));
         }
+        public void RegisterEmp(IEmployeeBO obj)
+        {
+            IEmployeeDAL obj1 = EmployeeFaDAL.CreateDAL();
+            obj1.Register(obj);
+        }
     }
 }

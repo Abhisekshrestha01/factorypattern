@@ -9,5 +9,6 @@ namespace TYPE
     public interface IEmployeeDAL
     {
         int CheckEmployee(IEmployeeBO obj);
+        void Register(IEmployeeBO obj);
     }
 }
