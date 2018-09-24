@@ -9,3 +9,7 @@ C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.csproj
 C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.csproj.CopyComplete
 C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.dll
 C:\Users\shres\source\repos\factorypatten\FactoryBLL\obj\Debug\FactoryBLL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\FactoryDAL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\DAL.dll
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\FactoryDAL.pdb
+C:\Users\shres\source\repos\factorypatten\FactoryBLL\bin\Debug\DAL.pdb

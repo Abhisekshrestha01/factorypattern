@@ -75,3 +75,11 @@ C:\Users\shres\source\repos\factorypatten\factorypatten\bin\TYPE.dll
 C:\Users\shres\source\repos\factorypatten\factorypatten\bin\FactoryBLL.pdb
 C:\Users\shres\source\repos\factorypatten\factorypatten\bin\FactoryBO.pdb
 C:\Users\shres\source\repos\factorypatten\factorypatten\bin\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\BO.dll
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\BO.pdb
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\BLL.dll
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\FactoryDAL.dll
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\DAL.dll
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\BLL.pdb
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\FactoryDAL.pdb
+C:\Users\shres\source\repos\factorypatten\factorypatten\bin\DAL.pdb

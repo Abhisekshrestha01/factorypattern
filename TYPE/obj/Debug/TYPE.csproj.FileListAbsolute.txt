@@ -1,0 +1,6 @@
+C:\Users\shres\source\repos\factorypatten\TYPE\bin\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\TYPE\bin\Debug\TYPE.pdb
+C:\Users\shres\source\repos\factorypatten\TYPE\obj\Debug\TYPE.csprojAssemblyReference.cache
+C:\Users\shres\source\repos\factorypatten\TYPE\obj\Debug\TYPE.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\factorypatten\TYPE\obj\Debug\TYPE.dll
+C:\Users\shres\source\repos\factorypatten\TYPE\obj\Debug\TYPE.pdb

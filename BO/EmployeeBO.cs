@@ -26,7 +26,7 @@ namespace BO
         {
             get
             {
-                return username;
+                return password;
             }
             set
             {

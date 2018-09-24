@@ -8,5 +8,6 @@ namespace TYPE
 {
     public interface IEmployeeBLL
     {
+        int CheckEmp(IEmployeeBO obj);
     }
 }

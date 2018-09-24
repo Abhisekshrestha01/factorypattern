@@ -8,5 +8,7 @@ namespace TYPE
 {
     public interface IEmployeeBO
     {
+        string Username { get; set; }
+        string Password { get; set; }
     }
 }
